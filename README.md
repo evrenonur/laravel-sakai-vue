@@ -14,7 +14,7 @@ This template should help get you started developing with Vue 3 in Laravel and V
 See [Vite Configuration Reference](https://vitejs.dev/config/).
  [Sakai Vue](https://github.com/primefaces/sakai-vue).
 
-
+![Screenshot](dashboard.png)
 ## Frontend Setup
 
 ```sh
